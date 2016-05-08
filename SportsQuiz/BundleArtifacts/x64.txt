@@ -1,0 +1,2 @@
+MainPackage=C:\Users\sojit\OneDrive\Documents\Visual Studio 2015\Projects\SportsQuiz\SportsQuiz\bin\x64\Release\SportsQuiz_1.1.1.0_x64.appx
+SymbolPackage=C:\Users\sojit\OneDrive\Documents\Visual Studio 2015\Projects\SportsQuiz\SportsQuiz\AppPackages\SportsQuiz_1.1.1.0_Test\SportsQuiz_1.1.1.0_x64.appxsym

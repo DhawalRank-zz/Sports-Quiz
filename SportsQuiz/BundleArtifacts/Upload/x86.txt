@@ -1,0 +1,1 @@
+MainPackage=C:\Users\sojit\OneDrive\Documents\Visual Studio 2015\Projects\SportsQuiz\SportsQuiz\bin\x86\Release\Upload\SportsQuiz_1.1.1.0_x86.appx
